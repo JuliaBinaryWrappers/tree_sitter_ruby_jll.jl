@@ -1,0 +1,252 @@
+[[tree_sitter_ruby]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7e5e2894de079a976f98c5f5b98d2de426444db3"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "27cb8d146e7d1297e54f24ccf8157e920550499fd89dbf5d10c30b45248b143d"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8970a04909d7ba46b2b7e6fa52514c1b06dd7a97"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "2710ddec56280e10c405719bd3c5df2b2c2ee337991696fe944cf6230ed65186"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[tree_sitter_ruby]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fbc45c4e1696c4448a0726168dbc8d45fea18eb8"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "799fbc0cc010d84bd7ec391e245164352810cd77081808b5df28351d79638324"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.aarch64-linux-musl-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ffc34c4d6e3ddbc2696f9789970572ea014d0f1b"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "661eb6a1b2bc1e41afca15998c557f16bd6f746fa65c14105e422f85620f9ff5"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.aarch64-linux-musl-cxx11.tar.gz"
+[[tree_sitter_ruby]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "784f7e2fdb5519cce0ac49bf8d1c9112e3173681"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "845d3bf597111b8e27ff20338c668af43b66ac1e5cb2eb40e977acfa7d1ef6f9"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7a38596803b3c5b8464ab3a559b3f90f2b91d79e"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "6d9a82314ee01b350de126f6c1c8e96e1427586ee61fae4a5c6b0f1a16dab8bb"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[tree_sitter_ruby]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1e3b0b38339a29e610d0216369f9f7dee9f88d36"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "063c2eba1e6849e3b094fdcde7ffc59d0a10aa52cbc1bd375088ffc327ef4af9"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "81460c8e2f36934e268270fcb784deda4eb8887e"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "9ec38ee3a4ecfa4817b0a2e9f9f6259c355ae865814c8efbdab0300a1ff51336"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[tree_sitter_ruby]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "864c83a2a1a69b60695d29b89d37e78110c78f9b"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "5d400a38c4e73160a23af8e1d84180f6796cb7f1d593bfc6cff47e9256b58439"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.i686-linux-gnu-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3fea8d514d3c1a5e6025655c577849077b2712ae"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "4b6950c3c31571fed58abf712d5227a79c272cb5d2e4e4e4b9a7e21f6b4465b1"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.i686-linux-gnu-cxx11.tar.gz"
+[[tree_sitter_ruby]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4b403c1e975fc473f157e691169ac6d57655615d"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "91815acc454f2a6d532753d8e9c0daacc204193eee67df76a7d8035d023afacc"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.i686-linux-musl-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a93e6d9509f7eb1b744eea99a9bdcfee90c9aa2b"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "94d104ca0f8e057f7042c3db79594ebb1288870ca42e9ad1f84d3be15857befa"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.i686-linux-musl-cxx11.tar.gz"
+[[tree_sitter_ruby]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1599f7002e4f3e46ac18e7fe639a6750f45055a4"
+os = "windows"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "c045ffe9cf4946e11daf4b59fc2d88cb84c66a09b46cb7cf9beebbb46f93cb78"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.i686-w64-mingw32-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d9ed95ea1728f849a22da89c3c3d6273f6cc4f36"
+os = "windows"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "789613cfb66de93a2c2db25396c17d55d74cfb5efb307f4071600537a4e539c2"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.i686-w64-mingw32-cxx11.tar.gz"
+[[tree_sitter_ruby]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4dbdce0ce47d621c962cc8497494831edbee38e7"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "2a03dc30cb8674fc7fe2325e380af5a8ff0e09eba8eb8bde55d28bc41bc64059"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "928f16cb6a3d79590c3529b31a8892e2c9806038"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "9dd9b5ee5555a7b339a2d2f9b20c337bca29681f10821a64bc358636544b714e"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[tree_sitter_ruby]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9584a7baa34d59cf2d1464ab90938042e8550531"
+os = "macos"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "3f8ac6da03b3fc6d12eaeb6b38125f21511212d53a61ef0bcd7a823ab41b7bbc"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.x86_64-apple-darwin14-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a4108070d6e3c337a011f1e817adcf3bd15cb348"
+os = "macos"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "77aa64bcd4e2706d9c1fd6cd4b347476fb2a90c0f6e092bb3957f9eb270a8acd"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.x86_64-apple-darwin14-cxx11.tar.gz"
+[[tree_sitter_ruby]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ccf22b67cbb42419777b7c5512277f3f24d4630c"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "5028ca0153f707720433275cef797f0f852301107f32dcd6e3cd9d5c86add05e"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "084f50159b17a3af8891abc1d7d41f1bfb970ec1"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "f68e0ed7df1e2414b78a3435cd788ccfac447b841f6a6d107d69845350e4c80b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[tree_sitter_ruby]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "521cc46588f563874fddc9eeecd370af155bb7cc"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "03298aed8c11ad4a804028608e0c2d22600f6b625705eabd16e94388a64354fd"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.x86_64-linux-musl-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8ea98f1e6ae181fd29794ea364b511d351bbe945"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "165c17e6f925cf5273f4f5ed3416e902f01822137e4470450d559dd4269b90f2"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.x86_64-linux-musl-cxx11.tar.gz"
+[[tree_sitter_ruby]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6b36f33c4fd35557a49ae3b710ec9b40b819322a"
+os = "freebsd"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "cb6045766daf462b9214fa978564a2bfcb9fd00560214f17e11f36e849639734"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3e0b3534df1227edfa6d48f35d3959b1d3735c38"
+os = "freebsd"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "e808ae63f723100a6af594f54bfcb6bab1ce769703d444636bd6970f7a18af2b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[tree_sitter_ruby]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e6a0575e4d6fa4d970f0c9ada564fd3a849efa40"
+os = "windows"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "2646d5692fa54121d4e1ee5c1d5461c110b859c5c0eb1510aa427aab3907c4f7"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[tree_sitter_ruby]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "88511178af06e4c025d8baf2ac2e19e4b4ff4f2c"
+os = "windows"
+
+    [[tree_sitter_ruby.download]]
+    sha256 = "d1a235befb4cf816c35f7cc7a8ea74b5b67aafc28cfd83905a0ee81cac91ef39"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_ruby_jll.jl/releases/download/tree_sitter_ruby-v0.16.2+0/tree_sitter_ruby.v0.16.2.x86_64-w64-mingw32-cxx11.tar.gz"
